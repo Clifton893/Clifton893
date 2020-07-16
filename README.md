@@ -21,7 +21,7 @@ After being a chef for seven years, I realized I needed to do more with my life.
 
 I'm still in the transition phase of my career change, and COVID-19 destroying the economy didn't help me any. But chefs are scrappy, and I **will** succeed. 👍
 
-🔭 **I’m currently working on** a personal/portfolio website, [my blog](https://medium.com/sushi-chef-stories)'s next article, and recovering from a 3-month unemployment period.
+🛠 **I’m currently working on** a personal/portfolio website, [my blog](https://medium.com/sushi-chef-stories)'s next article, and recovering from a 3-month unemployment period.
 
 🌱 **I’m currently learning** React.js
 
