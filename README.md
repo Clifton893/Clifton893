@@ -33,5 +33,12 @@ I'm still in the transition phase of my career change, and COVID-19 destroying t
 
 📫 **How to reach me:** With this [Google Form](https://forms.gle/6yGdVS7m45tavry59)!
 
-#### ⛩ Fun fact:
-My mother and grandmother immigrated from Japan. I speak Japanese (JLPT N5), and majored in Japanese studies. I **love** my heritage. Woodblock prints, kabuki theater, Akira Kurosawa films, Shinto, Zen Buddhism, and Japanese history are major passion points for me.
+### Connect
+- [Medium]()
+- [LinkedIn]()
+- [Dribbble]()
+- [Twitter]()
+- [Instagram]()
+
+### Fun fact:
+My mother and grandmother immigrated from Japan. 🇯🇵 I speak Japanese (JLPT N5), and majored in Japanese studies. I **love** my heritage. Woodblock prints, kabuki theater, Akira Kurosawa films, Shinto, Zen Buddhism, and Japanese history are major passion points for me.
