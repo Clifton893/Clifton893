@@ -21,26 +21,17 @@ After being a chef for seven years, I realized I needed to do more with my life.
 
 I'm still in the transition phase of my career change, and COVID-19 destroying the economy didn't help me any. But chefs are scrappy, and I **will** succeed. 👍
 
-#### 🔭 I’m currently working on ...
-- Resetting my financial stability after a 3-month layoff.
+🔭 **I’m currently working on:** Resetting my financial stability after a 3-month layoff.
 
-#### 🌱 I’m currently learning ...
-- React.js
+🌱 **I’m currently learning:** React.js
 
-#### 👯 I’m looking to collaborate on ...
-- Documentation, specifically editing and proofing for readability and cohesiveness. I have a strong writing background.
-- BONUS: I'm also interested assisting with UI design, even though I'm at the junior level of experience.
+👯 **I’m looking to collaborate on:** Documentation, research, and visual design.
 
-#### 🤔 I’m looking for help with ...
-- The programming aspect of UX/UI.
+🤔 **I’m looking for help with:** UI programming, and breaking in as a junior designer.
 
-#### 💬 Ask me about ...
-- Japanese design principles
-- Typography
-- Content writing
+💬 **Ask me about:** Japanese design principles, typography, and content writing.
 
-#### 📫 How to reach me: ...
-- With this [Google Form](https://forms.gle/6yGdVS7m45tavry59)!
+📫 **How to reach me:** With this [Google Form](https://forms.gle/6yGdVS7m45tavry59)!
 
-#### ⛩ Fun fact: ...
-- My mother and grandmother immigrated from Japan. I speak Japanese (JLPT N5), and majored in Japanese studies. I **love** my heritage. Woodblock prints, kabuki theater, Akira Kurosawa films, Shinto, Zen Buddhism, and Japanese history are major passion points for me.
+#### ⛩ Fun fact:
+My mother and grandmother immigrated from Japan. I speak Japanese (JLPT N5), and majored in Japanese studies. I **love** my heritage. Woodblock prints, kabuki theater, Akira Kurosawa films, Shinto, Zen Buddhism, and Japanese history are major passion points for me.
