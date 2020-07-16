@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name's Clifton, and I'm a self-taught UX designer. 
+
+After being a chef for seven years, I realized I needed to do more with my life. So I taught myself how to code. For half a year, I woke up at 4:00am every day, and studied coding before I left for my job at 7:00am. Designing the front end *thrilled* me, and I couldn't learn enough about typography, interface design, color, and visual hierarchy. Then, when I went to a UX Meetup, I realized I'd found my dream career. 
+
+I'm still in the transition phase of my career change, and COVID-19 destroying the economy didn't help me any. But chefs are scrappy, and I **will** succeed. 👍
+
+#### 🔭 I’m currently working on ...
+- Resetting my financial stability after a 3-month layoff.
+
+#### 🌱 I’m currently learning ...
+- React.js
+
+#### 👯 I’m looking to collaborate on ...
+- Documentation, specifically editing and proofing for readability and cohesiveness. I have a strong writing background.
+- BONUS: I'm also interested assisting with UI design, even though I'm at the junior level of experience.
+
+#### 🤔 I’m looking for help with ...
+- The programming aspect of UX/UI.
+
+#### 💬 Ask me about ...
+- Japanese design principles
+- Typography
+- Content writing
+
+#### 📫 How to reach me: ...
+- With this [Google Form](https://forms.gle/6yGdVS7m45tavry59)!
+
+#### ⛩ Fun fact: ...
+- My mother and grandmother immigrated from Japan. I speak Japanese (JLPT N5), and majored in Japanese studies. I **love** my heritage. Woodblock prints, kabuki theater, Akira Kurosawa films, Shinto, Zen Buddhism, and Japanese history are major passion points for me.
