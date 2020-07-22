@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name's Clifton, and I'm a self-taught UX designer. 
+My name's Clifton, and I'm a self-taught engineer.
 
 After being a chef for seven years, I realized I needed to do more with my life. So I taught myself how to code. For half a year, I woke up at 4:00am every day, and studied coding before I left for my job at 7:00am. Designing the front end *thrilled* me, and I couldn't learn enough about typography, interface design, color, and visual hierarchy. Then, when I went to a UX Meetup, I realized I'd found my dream career. 
 
 I'm still in the transition phase of my career change, and COVID-19 destroying the economy didn't help me any. But chefs are scrappy, and I **will** succeed. 👍
 
-🛠 **I’m currently working on** a personal/portfolio website, [my blog](https://medium.com/sushi-chef-stories)'s next article, and recovering from a 3-month unemployment period.
+🛠 **I’m currently working on** [my blog](https://medium.com/sushi-chef-stories)'s next article, which is about the Japan's summertime insects.
 
 🌱 **I’m currently learning** React.js
 
