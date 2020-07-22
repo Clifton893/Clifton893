@@ -1,4 +1,4 @@
-## Welcome 🙏
+## Hi, I'm Clifton!
 
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Clifton! I'm a self-taught engineer, and lifelong writer. For half a year, I woke up at 4:00am every day to teach myself how to code, before going to work as a sushi chef. (You can [learn more about me](https://clifton893.github.io/about.html) on my website.)
+I'm a self-taught engineer, and lifelong writer. For half a year, I woke up at 4:00am every day to teach myself how to code, before going to work as a sushi chef. (You can [learn more about me](https://clifton893.github.io/about.html) on my website.)
 
 I'm still in the transition phase of my career change, but chefs are scrappy, and I **will** succeed. 👍
 
