@@ -19,6 +19,8 @@ I'm a self-taught engineer, and lifelong writer. For half a year, I woke up at 4
 
 I'm still in the transition phase of my career change, but chefs are scrappy, and I **will** succeed. 👍
 
+---
+
 🛠 **I’m currently working on** [my blog](https://medium.com/sushi-chef-stories)'s next article, which is about Japan's summertime insects.
 
 🌱 **I’m currently learning** React.js
@@ -29,7 +31,7 @@ I'm still in the transition phase of my career change, but chefs are scrappy, an
 
 💬 **Ask me about:** Japanese design/arts/history/film, typography, and content writing.
 
-### Let's Connect 📫
+## Let's Connect 📫
 - [Medium](https://medium.com/@Clifton893)
 - [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/)
 - [Dribbble](https://dribbble.com/Clifton893)
