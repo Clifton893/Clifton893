@@ -31,10 +31,9 @@ I'm still in the transition phase of my career change, but chefs are scrappy, an
 
 💬 **Ask me about:** Japanese design/arts/history/film, typography, and content writing.
 
-## Let's Connect 📫
+## Let's Connect! 📫
 - [Medium](https://medium.com/@Clifton893)
 - [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/)
 - [Dribbble](https://dribbble.com/Clifton893)
 - [Twitter](https://twitter.com/Clifton893)
 - [Instagram](https://www.instagram.com/cliftonlongjr/)
-- Or, you can [contact me with this Google Form](https://forms.gle/6yGdVS7m45tavry59)
