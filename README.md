@@ -27,7 +27,7 @@ For half a year, I woke up at 4:00am every day to teach myself how to code, befo
 <!-- Add "Technology Toolbox" section with shields -->
 
 ## Writing ✍️
-I love writing, and you can find me on Medium. I write about Japanese history & culture, design, and racism.
+Writing has been a lifelong love of mine. You can find me on Medium, where I write about [Japanese history & culture](https://medium.com/sushi-chef-stories/the-tanabata-festival-ce20e0840142), [design](https://uxdesign.cc/what-being-a-chef-taught-me-about-ux-design-aad1d9b5ab23), and [racism](https://medium.com/@Clifton893/the-problem-with-awkwafina-f8ae3befb08).
 
 ## Let's Connect! 🌐
 *Talk to me about anything! Typography, cooking, Japanese culture, Nintendo, I can chat your ear off....* 😅
