@@ -24,6 +24,8 @@ For half a year, I woke up at 4:00am every day to teach myself how to code, befo
 
 🛠 **I’m currently working on** an article about Zen, Japanese principles, and good UX design.
 
+<!-- Add "Technology Toolbox" section with shields -->
+
 ## Writing ✍️
 I love writing, and you can find me on Medium. I write about Japanese history & culture, design, and racism.
 
