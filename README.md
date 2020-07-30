@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Clifton! I'm a self-taught coder, a lifelong writer, and aspiring UI designer. For half a year, I woke up at 4:00am every day to teach myself how to code, before going to work as a sushi chef. 
+Hi, I'm Clifton! I'm a self-taught coder, a lifelong writer, and aspiring UI designer. 
+
+For half a year, I woke up at 4:00am every day to teach myself how to code, before going to work as a sushi chef. 
 
 ---
 
 🛠 **I’m currently working on** [my blog](https://medium.com/sushi-chef-stories)'s next article, which is about Japan's summertime insects.
 
 🌱 **I’m currently learning** React.js
-
-👯 **I’m looking to collaborate on:** Documentation, research, and visual design.
 
 💬 **Chat with me about:** Japanese design/arts/history/film, typography, and content writing.
 
