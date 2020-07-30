@@ -22,7 +22,7 @@ For half a year, I woke up at 4:00am every day to teach myself how to code, befo
 ## Design & Dev 💻
 🌱 **I’m currently learning** React.js
 
-🛠 **I’m currently working on** [my blog](https://medium.com/sushi-chef-stories)'s next article, which is about Japan's summertime insects.
+🛠 **I’m currently working on** an article about Zen, Japanese principles, and good UX design.
 
 ## Writing ✍️
 I love writing, and you can find me on Medium. I write about Japanese history, design, and racism.
