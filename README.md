@@ -25,9 +25,7 @@ Hi, I'm Clifton! I'm a self-taught coder, a lifelong writer, and aspiring UI des
 
 👯 **I’m looking to collaborate on:** Documentation, research, and visual design.
 
-🤔 **I’m looking for help with:** UI programming, and breaking in as a junior designer.
-
-💬 **Ask me about:** Japanese design/arts/history/film, typography, and content writing.
+💬 **Chat with me about:** Japanese design/arts/history/film, typography, and content writing.
 
 ## Let's Connect! 📫
 - [Medium](https://medium.com/@Clifton893)
