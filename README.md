@@ -27,9 +27,8 @@ For half a year, I woke up at 4:00am every day to teach myself how to code, befo
 
 💬 **Chat with me about:** Japanese design/arts/history/film, typography, and content writing.
 
-## Let's Connect! 📫
-- [Medium](https://medium.com/@Clifton893)
-- [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/)
-- [Dribbble](https://dribbble.com/Clifton893)
-- [Twitter](https://twitter.com/Clifton893)
-- [Instagram](https://www.instagram.com/cliftonlongjr/)
+## Let's Connect! 🌐
+- [![ig](https://img.shields.io/badge/Instagram-black?style=social&logo=Instagram)](https://www.instagram.com/cliftonlongjr/)
+- [![li](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=Linkedin)](https://www.linkedin.com/in/cliftonlongjr/)
+- [![me](https://img.shields.io/badge/Medium-black?style=social&logo=Medium)](https://medium.com/@Clifton893)
+- [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/clifton893)
