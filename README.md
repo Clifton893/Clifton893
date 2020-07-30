@@ -25,9 +25,10 @@ For half a year, I woke up at 4:00am every day to teach myself how to code, befo
 🛠 **I’m currently working on** an article about Zen, Japanese principles, and good UX design.
 
 ## Writing ✍️
-I love writing, and you can find me on Medium. I write about Japanese history, design, and racism.
+I love writing, and you can find me on Medium. I write about Japanese history & culture, design, and racism.
 
 ## Let's Connect! 🌐
+*Talk to me about anything! Typography, cooking, Japanese culture, Nintendo, I can chat your ear off....* 😅
 - [![ig](https://img.shields.io/badge/Instagram-black?style=social&logo=Instagram)](https://www.instagram.com/cliftonlongjr/)
 - [![li](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=Linkedin)](https://www.linkedin.com/in/cliftonlongjr/)
 - [![me](https://img.shields.io/badge/Medium-black?style=social&logo=Medium)](https://medium.com/@Clifton893)
