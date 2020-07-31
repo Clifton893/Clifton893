@@ -23,6 +23,10 @@ My goal is to design interfaces that are understandable, helpful, and enjoyable;
 
 ## Tech Toolbox 🧰
 
+![html](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=999999) ![ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420) ![shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25) ![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) ![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) ![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
+
 🌱 **I’m currently learning** React.js
 
 🛠 **I’m currently working on** an article about Zen, Japanese principles, and good UX design.
