@@ -29,19 +29,9 @@ My goal is to design interfaces that are understandable, helpful, and enjoyable;
 
 #### Currently Learning 🌱
 
-![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
-
-![liquid](https://img.shields.io/badge/Liquid-black?style=for-the-badge&logo=shopify)
+![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js) ![liquid](https://img.shields.io/badge/Liquid-black?style=for-the-badge&logo=shopify)
 
 <!-- #### Roadmap 🗓 -->
-
-
-
-🛠 **I’m currently working on** an article about Zen, Japanese principles, and good UX design.
-
-<!-- Add "Technology Toolbox" section with shields -->
 
 ## Writing ✍️
 Writing has been a lifelong love of mine. You can find me on Medium, where I write about [Japan](https://medium.com/sushi-chef-stories/the-tanabata-festival-ce20e0840142), [design](https://uxdesign.cc/what-being-a-chef-taught-me-about-ux-design-aad1d9b5ab23), and [racism](https://medium.com/@Clifton893/the-problem-with-awkwafina-f8ae3befb08).
