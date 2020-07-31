@@ -21,7 +21,8 @@ For half a year, I woke up at 4:00am every day to teach myself how to code, befo
 
 My goal is to design interfaces that are understandable, helpful, and enjoyable; and interpret them in code. 🤓
 
-## Design & Dev 💻
+## Tech Toolbox 🧰
+
 🌱 **I’m currently learning** React.js
 
 🛠 **I’m currently working on** an article about Zen, Japanese principles, and good UX design.
