@@ -1,4 +1,4 @@
-![Clifton likes 1980s techno aesthetic](githubcover.png)
+# Hi, I'm Clifton!
 
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Clifton! I'm a self-taught coder and aspiring UI designer. 
+I'm a self-taught coder and aspiring UI designer. 
 
 For half a year, I woke up at 4:00am every day to teach myself how to code, before going to work as a sushi chef. Tinkering on the front-end thrilled me, so I committed to a career change. 
 
