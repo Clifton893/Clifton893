@@ -1,4 +1,4 @@
-# Clifton Long Jr. — @clifton893
+![banner](/githubProfileBanner.png)
 
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
