@@ -1,4 +1,4 @@
-
+![Clifton likes 1980s techno aesthetic](githubcover.png)
 
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
