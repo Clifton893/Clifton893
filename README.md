@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hi, I'm Clifton!**
+## Hi, I'm Clifton!
 
 I'm a self-taught coder and aspiring UI designer. 
 
