@@ -1,4 +1,4 @@
-# Hi, I'm Clifton!
+![Clifton likes 1980s techno aesthetics](https://github.com/Clifton893/Clifton893/blob/master/githubHeader.png)
 
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Hi, I'm Clifton!**
 
 I'm a self-taught coder and aspiring UI designer. 
 
