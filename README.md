@@ -25,8 +25,9 @@ My goal is to design interfaces that are understandable, helpful, and enjoyable;
 
 ---
 
-## Tech Toolbox
+## Skills 💻
 
+#### Languages
 ![html](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 #### OS / Tools
@@ -37,8 +38,6 @@ My goal is to design interfaces that are understandable, helpful, and enjoyable;
 ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js) ![liquid](https://img.shields.io/badge/Liquid-black?style=for-the-badge&logo=shopify)
 
 ---
-
-<!-- #### Roadmap 🗓 -->
 
 ## Writing ✍️
 Writing has been a lifelong love of mine. You can find me on Medium, where I write about [Japan](https://medium.com/sushi-chef-stories/the-tanabata-festival-ce20e0840142), [design](https://uxdesign.cc/what-being-a-chef-taught-me-about-ux-design-aad1d9b5ab23), and [racism](https://medium.com/@Clifton893/the-problem-with-awkwafina-f8ae3befb08).
