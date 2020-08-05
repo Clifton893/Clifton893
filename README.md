@@ -25,7 +25,7 @@ My goal is to design interfaces that are understandable, helpful, and enjoyable;
 
 ---
 
-## Skills 💻
+## Tech Stack 💻
 
 #### Languages
 ![html](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
