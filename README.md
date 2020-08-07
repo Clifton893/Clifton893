@@ -1,4 +1,10 @@
 ![Clifton likes 1980s techno aesthetics](https://github.com/Clifton893/Clifton893/blob/master/githubHeader.png)
+<!-- 
+Banner typography: 
+- Outrun future (bold)
+- ChicagoFLF 
+-->
+
 
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
