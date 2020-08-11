@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 I'm a self-taught coder and aspiring UI designer. 
 
-For half a year, I woke up at 4:00am every day to teach myself how to code, before going to work as a sushi chef. Tinkering on the front-end thrilled me, so I committed to a career change. 
+For half a year, I woke up at 4:00am every day to teach myself how to code, before going to work as a sushi chef. Tinkering on the front-end thrilled me *so much* that I decided to change careers!
 
 My goal is to design interfaces that are understandable, helpful, and enjoyable; and interpret them in code. 🤓
 
