@@ -64,4 +64,5 @@ Writing has been a lifelong love of mine. You can find me on Medium, where I wri
 
 <!-- Credits --> <!--
 https://github.com/MartinHeinz/MartinHeinz
+https://github.com/adamalston/adamalston/blob/master/README.md
 -->
