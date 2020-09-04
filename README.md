@@ -1,4 +1,5 @@
-![Clifton likes 1980s techno aesthetics](https://github.com/Clifton893/Clifton893/blob/master/githubHeader.png)
+![Clifton likes 1980s techno aesthetics](https://user-images.githubusercontent.com/56210811/92247386-cb306500-ee8c-11ea-8f88-af19b6f57c1f.png)
+
 <!-- 
 Banner typography: 
 - Outrun future (bold)
