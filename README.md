@@ -48,9 +48,6 @@ My goal is to design interfaces that are understandable, helpful, and enjoyable;
 ![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) 
 ![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
 
-## Writing
-Writing has been a lifelong love of mine. You can find me on Medium, where I write about [Japan](https://medium.com/sushi-chef-stories/the-tanabata-festival-ce20e0840142), [design](https://uxdesign.cc/what-being-a-chef-taught-me-about-ux-design-aad1d9b5ab23), and [racism](https://medium.com/@Clifton893/the-problem-with-awkwafina-f8ae3befb08).
-
 ## Let's Connect! 🌐
 *Talk to me about anything! Typography, cooking, Japanese culture, Nintendo, I can chat your ear off....* 😅
 - [![ig](https://img.shields.io/badge/Instagram-black?style=social&logo=Instagram)](https://www.instagram.com/cliftonlongjr/)
