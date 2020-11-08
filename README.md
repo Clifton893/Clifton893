@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Clifton! ⛩
 
-I'm an IT student currently working towards CompTIA A+ certification. 
+I'm an IT student currently working towards CompTIA A+ certification. I'm also a professional chef of seven years!
 
-For half a year, I woke up at 4:00am every day--extra early before my sushi chef job--and taught myself how to code. I *loved* it. So I connected the dots, and realized my passion for learning, scrappy problem-solving, and empathy for teammates and clients meant my future was in tech!
+Last year, I woke up at 4:00am every day--extra early before work--and taught myself how to code. I *loved* it. So I connected the dots, and realized my passion for learning, scrappy problem-solving, and empathy for teammates and clients meant my future was in tech!
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
