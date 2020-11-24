@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Clifton! ⛩
+## ⛩ Hi, I'm Clifton!
 
 I'm an IT student currently working towards CompTIA A+ certification. I'm also a professional chef of seven years!
 
 Last year, I woke up at 4:00am every day--extra early before work--and taught myself how to code. I *loved* it. So I connected the dots, and realized my passion for learning, scrappy problem-solving, and empathy for teammates and clients meant my future was in tech!
 
-## Tech Stack
+### 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
@@ -46,12 +46,8 @@ Last year, I woke up at 4:00am every day--extra early before work--and taught my
 ![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) 
 ![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
 
-## Let's Connect! 🌐
-*Talk to me about anything! Typography, cooking, Japanese culture, Nintendo, I can chat your ear off....* 😅
-- [![ig](https://img.shields.io/badge/Instagram-black?style=social&logo=Instagram)](https://www.instagram.com/cliftonlongjr/)
-- [![li](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=Linkedin)](https://www.linkedin.com/in/cliftonlongjr/)
-- [![me](https://img.shields.io/badge/Medium-black?style=social&logo=Medium)](https://medium.com/@Clifton893)
-- [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/clifton893)
+### 🌐 Let's Connect!
+[Instagram](https://www.instagram.com/cliftonlongjr/) | [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/) | [Medium](https://medium.com/@Clifton893) | [Twitter](https://twitter.com/clifton893)
 
 <!-- Credits --> <!--
 https://github.com/MartinHeinz/MartinHeinz
