@@ -31,13 +31,11 @@ I'm an IT student currently working towards CompTIA A+ certification. I'm also a
 
 Last year, I woke up at 4:00am every day--extra early before work--and taught myself how to code. I *loved* it. So I connected the dots, and realized my passion for learning, scrappy problem-solving, and empathy for teammates and clients meant my future was in tech!
 
-### 💻 Tech Stack
+## 💻 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
-
-#### OS / Tools
 ![mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=999999) 
 ![ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420) 
 <!-- ![shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25) -->
@@ -46,7 +44,7 @@ Last year, I woke up at 4:00am every day--extra early before work--and taught my
 ![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) 
 ![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
 
-### 🌐 Let's Connect!
+## 🌐 Let's Connect!
 [Instagram](https://www.instagram.com/cliftonlongjr/) | [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/) | [Medium](https://medium.com/@Clifton893) | [Twitter](https://twitter.com/clifton893)
 
 <!-- Credits --> <!--
