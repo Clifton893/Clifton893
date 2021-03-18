@@ -1,11 +1,4 @@
-![Clifton likes 1980s techno aesthetics](https://user-images.githubusercontent.com/56210811/92247386-cb306500-ee8c-11ea-8f88-af19b6f57c1f.png)
-
-<!-- 
-Banner typography: 
-- Outrun future (bold)
-- ChicagoFLF 
--->
-
+<!-- ✊🏿 Black Lives Matter
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) -->
 <!-- ![liquid](https://img.shields.io/badge/Liquid-black?style=flat&logo=shopify) -->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933) -->
@@ -15,6 +8,19 @@ Banner typography:
 <!-- ![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) -->
 <!-- ![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) -->
 <!-- ![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4) -->
+<!--
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
+
+<!--
+![mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=999999) 
+![ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420) 
+
+<!--
+![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) 
+![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) 
+![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
+
 
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,25 +37,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⛩ Hi, I'm Clifton!
+# Hello, I'm Clifton!
 
-I'm an IT student currently working towards CompTIA A+ certification. I'm also a professional chef of seven years!
+IT support professional based in Austin, Texas. A self-taught coder with an ear for problems and a mind for solving them.
 
-## 💻 Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
+- 🔭 I’m currently working on building my new virtualized workstation.
+- 🌱 I’m currently studying for **CompTIA A+** certification.
+- 💬 Chat with me about world history, video games, and cooking.
+- ⚡ Fun fact: I was a Japanese-trained chef for seven years!
 
-![mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=999999) 
-![ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420) 
 
-![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) 
-![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) 
-![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
-
-## 🌐 Let's Connect!
+### Let's Connect! 🌐
 [Instagram](https://www.instagram.com/cliftonlongjr/) | [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/) | [Medium](https://medium.com/@Clifton893) | [Twitter](https://twitter.com/clifton893)
 
-<!-- Credits --> <!--
+<!-- Inspirations --> <!--
 https://github.com/MartinHeinz/MartinHeinz
 https://github.com/adamalston/adamalston/blob/master/README.md
 -->
