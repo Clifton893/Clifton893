@@ -1,3 +1,4 @@
+<!-- ✊🏿 Black Lives Matter
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) -->
 <!-- ![liquid](https://img.shields.io/badge/Liquid-black?style=flat&logo=shopify) -->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933) -->
@@ -40,11 +41,11 @@ Here are some ideas to get you started:
 
 IT support professional based in Austin, Texas. A self-taught coder with an ear for problems and a mind for solving them.
 
-- 🔭 I’m currently working on building my new virtualized workstation!
+- 🔭 I’m currently working on building my new virtualized workstation.
 - 🌱 I’m currently studying for **CompTIA A+** certification.
-- 💬 Chat with me about world history, video games, and cooking!
-- ⚡ Fun fact: I was a Japanese-trained chef for seven years.
-- ✊🏿 Black Lives Matter
+- 💬 Chat with me about world history, video games, and cooking.
+- ⚡ Fun fact: I was a Japanese-trained chef for seven years!
+
 
 ### Let's Connect! 🌐
 [Instagram](https://www.instagram.com/cliftonlongjr/) | [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/) | [Medium](https://medium.com/@Clifton893) | [Twitter](https://twitter.com/clifton893)
