@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⛩ Hi, I'm Clifton!
+# Hello, I'm Clifton!
 
 I'm an IT student currently working towards CompTIA A+ certification. I'm also a professional chef of seven years!
 
 
-### 🌐 Let's Connect!
+### Let's Connect! 🌐
 [Instagram](https://www.instagram.com/cliftonlongjr/) | [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/) | [Medium](https://medium.com/@Clifton893) | [Twitter](https://twitter.com/clifton893)
 
-<!-- Credits --> <!--
+<!-- Inspirations --> <!--
 https://github.com/MartinHeinz/MartinHeinz
 https://github.com/adamalston/adamalston/blob/master/README.md
 -->
