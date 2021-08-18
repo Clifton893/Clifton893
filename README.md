@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 
 IT support professional based in Austin, Texas. A self-taught coder with an ear for problems and a mind for solving them.
 
-- 🔭 I’m currently working on building my new virtualized workstation.
-- 🌱 I’m currently studying for **CompTIA A+** certification.
+- 🌱 I’m currently studying for **CCNA** certification.
 - 💬 Chat with me about world history, video games, and cooking.
 - ⚡ Fun fact: I was a Japanese-trained chef for seven years!
 
