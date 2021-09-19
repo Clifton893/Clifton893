@@ -24,9 +24,6 @@ IT support professional based in Austin, Texas. A self-taught coder with an ear 
 - ⚡ Fun fact: I was a Japanese-trained chef for seven years!
 
 
-### Let's Connect! 🌐
-[Instagram](https://www.instagram.com/cliftonlongjr/) | [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/) | [Medium](https://medium.com/@Clifton893) | [Twitter](https://twitter.com/clifton893)
-
 <!-- Inspirations --> <!--
 https://github.com/MartinHeinz/MartinHeinz
 https://github.com/adamalston/adamalston/blob/master/README.md
