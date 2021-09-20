@@ -34,7 +34,7 @@ IT support professional based in Austin, Texas. A self-taught coder with an ear 
 - 💬 Chat with me about world history, video games, and cooking.
 - ⚡ Fun fact: I was a Japanese-trained chef for seven years!
 
-### What I've used:
+### Some things I've used:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30px"/>
 </span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" /></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="30px" /></span>
