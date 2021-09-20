@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Howdy!
-[![Instagram Badge](https://img.shields.io/badge/-@cliftonlongjr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cliftonlongjr/)](https://www.instagram.com/cliftonlongjr/) [![Linkedin Badge](https://img.shields.io/badge/-cliftonlongjr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cliftonlongjr/)](https://www.linkedin.com/in/cliftonlongjr/) [![Medium Badge](https://img.shields.io/badge/-@Clifton893-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@Clifton893)](https://medium.com/@Clifton893) [![Twitter Badge](https://img.shields.io/badge/-@Clifton893-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Clifton893)](https://twitter.com/Clifton893)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cliftonlongjr/)](https://www.instagram.com/cliftonlongjr/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cliftonlongjr/)](https://www.linkedin.com/in/cliftonlongjr/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@Clifton893)](https://medium.com/@Clifton893) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Clifton893)](https://twitter.com/Clifton893)
 
 ```yaml
 name: Clifton Long Jr.
@@ -38,6 +38,6 @@ IT support professional based in Austin, Texas. A self-taught coder with an ear 
 <!-- Inspirations --> <!--
 https://github.com/MartinHeinz/MartinHeinz
 https://github.com/adamalston/adamalston/blob/master/README.md
-https://github.com/JessicaLim8 For social media shield idea
+https://github.com/vidyabhandary For social media shield idea
 https://github.com/guilyx For code block idea
 -->
