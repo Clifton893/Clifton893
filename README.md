@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Howdy!
+# Howdy! I'm Clifton! 👋
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cliftonlongjr/)](https://www.instagram.com/cliftonlongjr/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cliftonlongjr/)](https://www.linkedin.com/in/cliftonlongjr/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@Clifton893)](https://medium.com/@Clifton893) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Clifton893)](https://twitter.com/Clifton893)
 
+Lorem ipsum paragraph about me.
+
+## Details
 ```yaml
 name: Clifton Long Jr.
 location: Austin, TX
@@ -28,7 +31,7 @@ currently_learning: Python, CCNA
 hobbies: Cooking, World history, Nintendo, Akira Kurosawa films, Yoga
 ```
 
-### Some things I've used:
+## Some things I've used
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30px"/>
 </span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" /></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="30px" /></span>
