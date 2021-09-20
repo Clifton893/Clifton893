@@ -39,4 +39,5 @@ IT support professional based in Austin, Texas. A self-taught coder with an ear 
 https://github.com/MartinHeinz/MartinHeinz
 https://github.com/adamalston/adamalston/blob/master/README.md
 https://github.com/JessicaLim8 For social media shield idea
+https://github.com/guilyx For code block idea
 -->
