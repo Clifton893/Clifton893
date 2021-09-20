@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ```yaml
 name: Clifton Long Jr.
 location: Austin, TX
-education: ["International Studies / Minor in Japanese", "Google IT Support Professional Certificate"]
+education: International Studies / Minor in Japanese, Google IT Support Professional Certificate
 
-technical_interests: ["Debian Linux", "Network Engineering", "UX/UI Design"]
-currently_learning: ["Python", "CCNA"]
-hobbies: ["Cooking", "World history", "Nintendo", "Akira Kurosawa films", "Yoga"]
+technical_interests: Debian Linux, Network Engineering, UX/UI Design
+currently_learning: Python, CCNA
+hobbies: Cooking, World history, Nintendo, Akira Kurosawa films, Yoga
 ```
 
 IT support professional based in Austin, Texas. A self-taught coder with an ear for problems and a mind for solving them.
