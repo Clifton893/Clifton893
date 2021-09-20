@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello, I'm Clifton!
+[![Instagram Badge](https://img.shields.io/badge/-@cliftonlongjr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cliftonlongjr/)](https://www.instagram.com/cliftonlongjr/) [![Linkedin Badge](https://img.shields.io/badge/-cliftonlongjr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cliftonlongjr/)](https://www.linkedin.com/in/cliftonlongjr/) [![Medium Badge](https://img.shields.io/badge/-@Clifton893-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@Clifton893)](https://medium.com/@Clifton893) [![Twitter Badge](https://img.shields.io/badge/-@Clifton893-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Clifton893)](https://twitter.com/Clifton893)
 
 IT support professional based in Austin, Texas. A self-taught coder with an ear for problems and a mind for solving them.
 
