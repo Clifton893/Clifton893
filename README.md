@@ -53,6 +53,6 @@ quirks: {
 https://github.com/MartinHeinz/MartinHeinz
 https://github.com/adamalston/adamalston/blob/master/README.md
 https://github.com/vidyabhandary For social media shield idea
-https://github.com/guilyx For code block idea
+https://github.com/guilyx and https://github.com/TryKatChup For code block idea
 https://github.com/khalby786 For Devicon idea
 -->
