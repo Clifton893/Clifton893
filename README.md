@@ -1,26 +1,4 @@
-<!-- ✊🏿 Black Lives Matter
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) -->
-<!-- ![liquid](https://img.shields.io/badge/Liquid-black?style=flat&logo=shopify) -->
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933) -->
-
-<!-- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB) -->
-<!-- ![shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25) -->
-<!-- ![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) -->
-<!-- ![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) -->
-<!-- ![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4) -->
-<!--
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-
-<!--
-![mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=999999) 
-![ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420) 
-
-<!--
-![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) 
-![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) 
-![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
-
+<!-- ✊🏿 Black Lives Matter -->
 
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,19 +15,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Clifton!
+# Howdy! I'm Clifton! 👋
+[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cliftonlongjr/)](https://www.instagram.com/cliftonlongjr/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cliftonlongjr/)](https://www.linkedin.com/in/cliftonlongjr/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@Clifton893)](https://medium.com/@Clifton893) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Clifton893)](https://twitter.com/Clifton893)
 
-IT support professional based in Austin, Texas. A self-taught coder with an ear for problems and a mind for solving them.
+Lorem ipsum paragraph about me.
 
-- 🌱 I’m currently studying for **CCNA** certification.
-- 💬 Chat with me about world history, video games, and cooking.
-- ⚡ Fun fact: I was a Japanese-trained chef for seven years!
+## Details
+```yaml
+name: Clifton Long Jr.
+location: Austin, TX
+education: International Studies (Minor in Japanese), Google IT Support Professional Certificate
 
+technical_interests: Ubuntu Linux, Network Engineering, UX/UI Design
+currently_learning: Python, CCNA
 
-### Let's Connect! 🌐
-[Instagram](https://www.instagram.com/cliftonlongjr/) | [LinkedIn](https://www.linkedin.com/in/cliftonlongjr/) | [Medium](https://medium.com/@Clifton893) | [Twitter](https://twitter.com/clifton893)
+quirks: {
+🇯🇵 三世 Japanese-American
+🕹 Nintendo nerd
+🎵 Jazz and '90s east coast hip-hop
+🎬 Akira Kurosawa nut
+🏛 World history buff
+☯ Outlaw Star fan
+🧘‍♂️ Chubby yogi
+}
+```
+
+## Some things I've used
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30px"/>
+</span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="30px" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30px" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="30px" /></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30px"/></span> 
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="30px"/></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30px"/></span>
+
 
 <!-- Inspirations --> <!--
 https://github.com/MartinHeinz/MartinHeinz
 https://github.com/adamalston/adamalston/blob/master/README.md
+https://github.com/vidyabhandary For social media shield idea
+https://github.com/guilyx and https://github.com/TryKatChup For code block idea
+https://github.com/khalby786 For Devicon idea
 -->
