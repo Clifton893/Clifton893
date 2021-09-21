@@ -24,11 +24,20 @@ Lorem ipsum paragraph about me.
 ```yaml
 name: Clifton Long Jr.
 location: Austin, TX
-education: International Studies / Minor in Japanese, Google IT Support Professional Certificate
+education: International Studies (Minor in Japanese), Google IT Support Professional Certificate
 
 technical_interests: Ubuntu Linux, Network Engineering, UX/UI Design
 currently_learning: Python, CCNA
-hobbies: Cooking, World history, Nintendo, Akira Kurosawa films, Yoga
+
+quirks: {
+🇯🇵 三世 Japanese-American
+🕹 Nintendo nerd
+🎵 Jazz and '90s east coast hip-hop
+🎬 Akira Kurosawa nut
+🏛 World history buff
+☯ Outlaw Star fan
+🧘‍♂️ Chubby yogi
+}
 ```
 
 ## Some things I've used
