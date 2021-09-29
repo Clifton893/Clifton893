@@ -31,11 +31,11 @@ currently_learning: Python, CCNA
 
 quirks: {
 🇯🇵 三世 Japanese-American
+🍣 Former sushi chef
 🕹 Nintendo nerd
 🎵 Nujabes is immortal
 🎬 Akira Kurosawa nut
 🏛 World history buff
-🌌 Always Toonami
 🧘‍♂️ Chubby yogi
 }
 ```
