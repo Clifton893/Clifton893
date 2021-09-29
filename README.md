@@ -32,7 +32,7 @@ currently_learning: Python, CCNA
 quirks: {
 🇯🇵 三世 Japanese-American
 🕹 Nintendo nerd
-🎵 Nujabes
+🎵 Nujabes is immortal
 🎬 Akira Kurosawa nut
 🏛 World history buff
 🌌 Always Toonami
