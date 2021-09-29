@@ -32,10 +32,10 @@ currently_learning: Python, CCNA
 quirks: {
 🇯🇵 三世 Japanese-American
 🕹 Nintendo nerd
-🎵 Jazz and '90s east coast hip-hop
+🎵 Nujabes
 🎬 Akira Kurosawa nut
 🏛 World history buff
-☯ Outlaw Star fan
+☯ Always Toonami
 🧘‍♂️ Chubby yogi
 }
 ```
