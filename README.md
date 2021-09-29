@@ -35,7 +35,7 @@ quirks: {
 🎵 Nujabes
 🎬 Akira Kurosawa nut
 🏛 World history buff
-☯ Always Toonami
+🌌 Always Toonami
 🧘‍♂️ Chubby yogi
 }
 ```
