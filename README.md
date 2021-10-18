@@ -27,7 +27,8 @@ location: Austin, TX
 education: International Studies (Minor in Japanese), Google IT Support Professional Certificate
 
 technical_interests: Ubuntu Linux, Network Engineering, UX/UI Design
-currently_learning: Python, CCNA
+currently_learning: Python
+future_goals: CCNA
 
 quirks: {
 🇯🇵 三世 Japanese-American
