@@ -31,13 +31,13 @@ currently_learning: Python
 future_goals: CCNA
 
 quirks: {
-🇯🇵 三世 Japanese-American
-🍣 Former sushi chef
-🍄️ Nintendo nerd
-🎵 Nujabes is immortal
-🎬 Akira Kurosawa nut
-🏛 World history buff
-🧘‍♂️ Chubby yogi
+  🇯🇵 三世 Japanese-American
+  🍣 Former sushi chef
+  🍄️ Nintendo nerd
+  🎵 Nujabes is immortal
+  🎬 Akira Kurosawa nut
+  🏛 World history buff
+  🧘‍♂️ Chubby yogi
 }
 ```
 
