@@ -22,29 +22,37 @@ Here are some ideas to get you started:
 
 ## Details
 ```yaml
-name: Clifton Long Jr.
-location: Austin, TX
-education: International Studies (Minor in Japanese), Google IT Support Professional Certificate
+name: 
+     Clifton Long Jr.
+  
+location: 
+     Austin, TX
 
-technical_interests: Ubuntu Linux, Network Engineering, UX/UI Design
-currently_learning: Python
-future_goals: CCNA
+education: 
+     Google IT Support Professional Certificate
+     International Studies (Minor in Japanese)
 
-quirks: {
-  🇯🇵 三世 Japanese-American
-  🍣 Former sushi chef
-  🍄️ Nintendo nerd
-  🎵 Nujabes is immortal
-  🎬 Akira Kurosawa nut
-  🏛 World history buff
-  🧘‍♂️ Chubby yogi
-}
+technical_interests: 
+     Linux
+     Python
+     Network Engineering
+
+quirks: 
+     🇯🇵 三世 Japanese-American
+     🍣 Former sushi chef
+     🍄️ Nintendo nerd
+     🎵 Nujabes is immortal
+     🎬 Akira Kurosawa nut
+     🏛 World history buff
+     🧘‍♂️ Chubby yogi
+
 ```
 
 ## Toolbox
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30px"/>
 </span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" /></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="30px" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30px" /></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="30px" /></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30px"/></span> 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="30px"/></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30px"/></span> 
