@@ -33,9 +33,9 @@ education:
      International Studies (Minor in Japanese)
 
 technical_interests: 
+     macOS
      Linux
      Python
-     Network Engineering
 
 quirks: 
      🇯🇵 三世 Japanese-American
