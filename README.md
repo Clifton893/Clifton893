@@ -45,6 +45,7 @@ quirks:
      🎬 Akira Kurosawa nut
      🏛 World history buff
      🧘‍♂️ Chubby yogi
+     🧛🏻‍♂️ Dracula Dark devotee
 
 ```
 
