@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # Howdy! I'm Clifton! 👋
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cliftonlongjr/)](https://www.instagram.com/cliftonlongjr/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cliftonlongjr/)](https://www.linkedin.com/in/cliftonlongjr/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@Clifton893)](https://medium.com/@Clifton893) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Clifton893)](https://twitter.com/Clifton893)
 
+Learning about technology thrills me; using my knowledge to help people satisfies me. 💚 🌸
+
 <!-- Lorem ipsum paragraph about me. -->
 
 ## Details
