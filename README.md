@@ -34,7 +34,7 @@ education:
 
 technical_interests: 
      macOS
-     Linux
+     Network engineering
      Python
 
 currently_studying:
