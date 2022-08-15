@@ -40,7 +40,7 @@ technical_interests:
      Python
 
 currently_studying:
-     CCNA
+     Aruba Networking Basics
 
 quirks: 
      🇯🇵 三世 Japanese-American
