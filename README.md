@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # Howdy! I'm Clifton! 👋
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cliftonlongjr/)](https://www.instagram.com/cliftonlongjr/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cliftonlongjr/)](https://www.linkedin.com/in/cliftonlongjr/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@Clifton893)](https://medium.com/@Clifton893)
 
 Learning about technology thrills me; using my knowledge to help people satisfies me. 💚 🌸
 
@@ -59,7 +58,6 @@ quirks:
 <!-- Inspirations --> <!--
 https://github.com/MartinHeinz/MartinHeinz
 https://github.com/adamalston/adamalston/blob/master/README.md
-https://github.com/vidyabhandary For social media shield idea
 https://github.com/guilyx and https://github.com/TryKatChup For code block idea
 https://github.com/khalby786 For Devicon idea (https://devicon.dev/)
 -->
