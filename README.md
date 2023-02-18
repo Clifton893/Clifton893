@@ -24,30 +24,22 @@ Learning about technology thrills me; using my knowledge to help people satisfie
 
 ## Details
 ```yaml
-name: 
-     Clifton Long Jr.
-  
-location: 
-     Austin, TX
-
-education: 
-     Google IT Support Professional Certificate
-     International Studies (Minor in Japanese)
+pronouns: 
+     he/him/his
 
 technical_interests: 
      macOS
-     Network engineering
-     Python
+     InfoSec
 
-currently_studying:
-     CompTIA Security+
+favorite_podcasts:
+     Darknet Diaries
+     Cyberwire Daily
+     Hacking Humans
+     Hardcore History
 
 quirks: 
-     🇯🇵 三世 Japanese-American
-     🍣 Former sushi chef
      🍄️ Nintendo nerd
      🎬 Akira Kurosawa nut
-     🧛🏻‍♂️ Dracula Dark devotee
 
 ```
 
