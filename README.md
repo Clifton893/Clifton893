@@ -1,5 +1,3 @@
-<!-- ✊🏿 Black Lives Matter -->
-
 <!--
 **Clifton893/Clifton893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,29 +24,28 @@ Learning about technology thrills me; using my knowledge to help people satisfie
 pronouns: 
      he/him/his
 
-technical_interests: 
-     macOS
-     InfoSec
-
 favorite_podcasts:
      Darknet Diaries
      Cyberwire Daily
-     Hacking Humans
+     Marketplace
      Hardcore History
 
-quirks: 
-     🍄️ Nintendo nerd
-     🎬 Akira Kurosawa nut
+other_interests: 
+     🎬 Akira Kurosawa films
+     🎱 Billiards
+     🥟 Cooking
+     
 
 ```
 
-## Toolbox
+<!-- ## Toolbox
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30px"/>
 </span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" /></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="30px" /></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30px"/></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="30px" /></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30px"/></span> 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="30px"/></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/></span> <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30px"/></span> 
+-->
 
 <!-- Software
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30px"/></span>
