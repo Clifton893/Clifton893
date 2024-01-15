@@ -24,15 +24,16 @@ Learning about technology thrills me; using my knowledge to help people satisfie
 pronouns: 
      he/him/his
 
-favorite_podcasts:
-     Darknet Diaries
-     Cyberwire Daily
-     Marketplace
-     Hardcore History
+proficiencies:
+     Google Workspace
+     Okta
+     Airtable
+     macOS
+     Slack
 
 other_interests: 
      🎬 Akira Kurosawa films
-     🎱 Billiards
+     🎧 Dan Carlin's *Hardcore History*
      🥟 Cooking
      
 
