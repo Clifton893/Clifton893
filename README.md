@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 # Howdy! I'm Clifton! 👋
 
-Learning about technology thrills me; using my knowledge to help people satisfies me. 💚 🌸
-
-<!-- Lorem ipsum paragraph about me. -->
-
-## Details
 ```yaml
 pronouns: 
      he/him/his
+
+expertise: 
+     IAM
+     GRC + IT security
 
 proficiencies:
      Google Workspace
@@ -33,7 +32,7 @@ proficiencies:
 
 other_interests: 
      🎬 Akira Kurosawa films
-     🎧 Dan Carlin's *Hardcore History*
+     🎧 Hardcore History
      🥟 Cooking
      
 
