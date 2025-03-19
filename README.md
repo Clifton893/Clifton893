@@ -16,19 +16,24 @@ Here are some ideas to get you started:
 # Howdy! I'm Clifton! 👋
 
 ```yaml
-pronouns: 
-     he/him/his
 
 expertise: 
-     IAM
-     GRC + IT security
+     Identity access management, IT security
+     Troubleshooting, root cause analysis, and technical support (it's always DNS)
+     Drinking coffee
 
-proficiencies:
+SaaS_proficiencies:
      Google Workspace
-     Okta
+     Okta Identity Engine
      Airtable
-     macOS
+     Jira
+     Confluence
      Slack
+
+coding_experience:
+     Python
+     HTML/CSS/JS
+     React
 
 other_interests: 
      🎬 Akira Kurosawa films
