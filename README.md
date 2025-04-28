@@ -37,7 +37,7 @@ coding_experience:
 
 other_interests: 
      🎬 Akira Kurosawa films
-     🎧 Hardcore History
+     🎶 Live jazz
      🥟 Cooking
      
 
@@ -54,6 +54,7 @@ other_interests:
 
 <!-- Software
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30px"/></span>
+https://skillicons.dev/
 -->
 
 
